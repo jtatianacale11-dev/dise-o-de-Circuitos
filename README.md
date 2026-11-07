@@ -5,7 +5,11 @@
 ### Unidad 1 · Lógica combinacional con diseño clásico
 
 **Universidad Nacional de Loja**
-Carrera de Computación · 2.º ciclo A · Período septiembre 2026 – marzo 2027
+Carrera de Computación ·
+
+2.º ciclo A 
+
+Período septiembre 2026 – marzo 2027
 
 </div>
 
