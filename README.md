@@ -5,8 +5,6 @@
 
 ### Unidad 1 · Lógica combinacional con diseño clásico
 
-
-
 ## 👤 Datos generales
 
 | | |
