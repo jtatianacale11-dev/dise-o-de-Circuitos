@@ -10,12 +10,12 @@
 
 | | |
 |---|---|
-| **Estudiante** | Josselyn Tatiana Cale Cale |
-| **Asignatura** | Diseño de Circuitos |
-| **Docente** | Ing. Luis Darío Sinche Cueva, Mg. |
-| **Carrera / Ciclo** | Computación · 2.º ciclo A |
-| **Unidad** | Unidad 1: Análisis de lógica combinacional con diseño clásico |
-| **Resultado de aprendizaje (R1)** | Diseña e implementa circuitos combinacionales básicos utilizando técnicas de diseño clásico |
+| 👩‍💻 **Estudiante** | Josselyn Tatiana Cale Cale |
+| 👨‍🏫 **Docente** | Ing. Luis Darío Sinche Cueva |
+| 🏫 **Universidad** | Universidad Nacional de Loja · Carrera de Computación |
+| 📚 **Materia** | Diseño de Circuitos · 2.º ciclo |
+| 🗓️ **Período** | Septiembre 2026 – marzo 2027 |
+| 🎯 **Unidad 1** | Análisis de lógica combinacional con diseño clásico |
 
 ---
 
