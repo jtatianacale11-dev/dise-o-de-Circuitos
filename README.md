@@ -2,6 +2,7 @@
 
 # 📘 Libro Digital 
 ## Diseño de Circuitos
+</p>
 
 ### Unidad 1 · Lógica combinacional con diseño clásico
 
