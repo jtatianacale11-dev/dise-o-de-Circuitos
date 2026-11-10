@@ -34,8 +34,11 @@ Este informe reúne un resumen de cada semana de clases de la Unidad 1. Cada sem
 ## 🧭 Hilo conductor del curso
 
 ```
-Números y compuertas  →  Álgebra de Boole  →  Simplificación (Karnaugh)  →  Circuitos que calculan
-      (Sem. 1)               (Sem. 2)                (Sem. 3)                      (Sem. 4)
+
+
+
+
+
 ```
 
 1. **Semana 1:** el computador usa 0 y 1, y las compuertas son sus piezas básicas.
