@@ -183,12 +183,6 @@ Sumador/restador + comparador + AND/OR/XOR + multiplexor (semana 5) = resultado 
 
 Resultado `1000 = 8`. Sin signo es correcto; con signo hay overflow (5 + 3 = 8 no cabe en −8…+7).
 
-## ✍️ Taller dirigido
-
-1. Sumar `1011 + 0110` escribiendo el acarreo de cada columna.
-2. Restar `0110 − 0011` con el sumador (M = 1).
-3. Estimar el retardo de un sumador de 16 bits (≈ 320 ns).
-4. Comparar A = 10 y B = 01: ¿A > B? ¿A = B?
 
 ## ✅ Resumen de la semana
 
