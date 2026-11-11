@@ -119,5 +119,5 @@ Ejemplo: el **74LS08** tiene 4 compuertas AND en un encapsulado **DIP-14**.
 - BCD para displays, Gray para sensores, ASCII para texto.
 - 7 compuertas: NOT, AND, OR, NAND, NOR, XOR, XNOR.
 
-**Tarea:** lectura de sistemas numéricos y códigos, Cuestionario 01, instalar Logisim-evolution y práctica APE 01.
+
 
