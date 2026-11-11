@@ -1,8 +1,10 @@
+
 <div align="center">
 
-# 📘 Libro Digital 
+# 📘 Libro Digital
 ## Diseño de Circuitos
-</p>
+
+</div>
 
 ### Unidad 1 · Lógica combinacional con diseño clásico
 
