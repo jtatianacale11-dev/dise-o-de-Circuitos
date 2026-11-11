@@ -65,9 +65,6 @@ flowchart LR
 
 ---
 
-<div align="center">
-
-*Elaborado por Josselyn Tatiana Cale Cale · Diseño de Circuitos · UNL*
 
 </div>
 
