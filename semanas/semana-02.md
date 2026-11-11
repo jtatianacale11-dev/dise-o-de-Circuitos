@@ -163,16 +163,7 @@ F = A + A'B + AB'C
 
 De 3 términos (5 literales) a una OR de 2 entradas.
 
-## ✍️ Taller por grupos
 
-| Tema | Descripción |
-|---|---|
-| Luz de pasillo | Dos interruptores A y B conmutan la luz; el maestro M (= 1) la apaga siempre |
-| Detector de primos | Entrada de 3 bits ABC (0–7); F = 1 si el número es primo |
-| Bomba de agua | Enciende si hay agua en la cisterna (B) y el tanque está bajo (A) o se pide en manual (C) |
-| Aviso de cinturón | Suena si el motor está encendido (E) y el cinturón no está puesto (C) o la puerta está abierta (P) |
-
-Cada grupo entrega: tabla, Σm y ΠM, SOP canónica, versión simplificada y recuento de compuertas y CI.
 
 ## ✅ Resumen de la semana
 
