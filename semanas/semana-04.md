@@ -195,5 +195,3 @@ Resultado `1000 = 8`. Sin signo es correcto; con signo hay overflow (5 + 3 = 8 n
 | Resta | M = 1: el XOR invierte B y Cin = 1 |
 | Overflow | V = C3 ⊕ C4, no Cout |
 
-**Tarea:** lectura de circuitos aritméticos combinacionales, Cuestionario 04 y diseño previo de la APE 04 (tabla y ecuaciones del sumador completo en papel).
-
