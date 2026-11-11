@@ -56,11 +56,6 @@ flowchart LR
 3. **Semana 3:** los mapas de Karnaugh simplifican de forma visual y NAND/NOR permiten construir todo con una sola familia.
 4. **Semana 4:** con lo anterior se diseña un sumador, base de la ALU de un procesador.
 
-## 🛠️ Herramientas utilizadas en el curso
-
-- **Logisim-evolution:** simulador de circuitos lógicos.
-- **Circuitos integrados TTL 74LS:** 7400 (NAND), 7404 (NOT), 7408 (AND), 7410 (NAND de 3 entradas), 7411 (AND de 3 entradas), 7432 (OR), 7483 (sumador de 4 bits), 7485 (comparador).
-- **Basys 3:** tarjeta FPGA para el proyecto integrador (Unidades 2 y 3).
 
 ## 📚 Bibliografía del curso
 
