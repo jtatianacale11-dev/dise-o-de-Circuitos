@@ -38,15 +38,6 @@ Este informe reúne un resumen de cada semana de clases de la Unidad 1. Cada sem
 
 ```mermaid
 flowchart LR
-    S1["Semana 1<br/>Binario, códigos<br/>y compuertas"] --> S2["Semana 2<br/>Álgebra de Boole<br/>SOP y POS"]
-    S2 --> S3["Semana 3<br/>Karnaugh, X<br/>y NAND/NOR"]
-    S3 --> S4["Semana 4<br/>Sumadores,<br/>resta y overflow"]
-    S1 -. complemento a dos .-> S4
-    S1 -. código Gray .-> S3
-```
-
-```mermaid
-flowchart LR
     S1["Semana 1<br>Binario, códigos<br>y compuertas"] --> S2["Semana 2<br>Álgebra de Boole<br>SOP y POS"]
     S2 --> S3["Semana 3<br>Karnaugh, X<br>y NAND/NOR"]
     S3 --> S4["Semana 4<br>Sumadores,<br>resta y overflow"]
