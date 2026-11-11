@@ -174,17 +174,6 @@ El literal que queda solo (A) entra **complementado**: la NAND se usa como inver
 
 **El ahorro vino de las X;** la NAND no agrega chips y deja una sola familia en el inventario.
 
-## 7. Proyecto integrador
-
-Un sistema en tres versiones, con 8 equipos y 4 roles rotativos (Especificación, Diseño, Verificación y Documentación).
-
-| Entrega | Semana | Contenido |
-|:-:|:-:|---|
-| 1 | 6 · Unidad 1 | Bloque combinacional: tabla de verdad, expresión mínima y esquema en Logisim-evolution |
-| 2 | 11 · Unidad 2 | Se agrega memoria: diagrama de estados, flip-flops y esquema completo |
-| 3 | 16 · Unidad 3 | Descrito en VHDL, simulación funcional, configuración de la Basys 3 y sustentación individual |
-
-Recursos de la **Basys 3** por equipo: 16 interruptores, 5 pulsadores, 16 LED y 4 dígitos de 7 segmentos.
 
 ## ✅ Resumen de la semana
 
