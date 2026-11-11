@@ -106,10 +106,6 @@ Ejemplo: el **74LS08** tiene 4 compuertas AND en un encapsulado **DIP-14**.
 
 - Un 74HC08 tiene la misma función y los mismos pines, pero es CMOS.
 
-## ✍️ Ejercicios de la clase
-
-- **Reto de conversión:** 45 a binario y hexadecimal; A7₁₆ a decimal; 11100101₂ a hexadecimal y octal.
-- **Del enunciado a la compuerta:** identificar la compuerta de cada frase y construir la tabla de verdad de `Y = A·B + C'`.
 
 ## ✅ Resumen de la semana
 
