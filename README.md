@@ -57,6 +57,8 @@ flowchart LR
     style S3 fill:#ffb6c1,stroke:#ff1493,stroke-width:2px,color:#000
     style S4 fill:#ffd1dc,stroke:#ff69b4,stroke-width:2px,color:#000
 
+´´´
+
 1. **Semana 1:** el computador usa 0 y 1, y las compuertas son sus piezas básicas.
 2. **Semana 2:** una compuerta es una expresión, y con álgebra se obtiene la tabla de verdad y la forma canónica.
 3. **Semana 3:** los mapas de Karnaugh simplifican de forma visual y NAND/NOR permiten construir todo con una sola familia.
