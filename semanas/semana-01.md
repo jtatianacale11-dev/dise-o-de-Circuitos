@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Convertir números entre decimal, binario, octal y hexadecimal. Representar negativos en complemento a dos. Reconocer los códigos BCD, Gray y ASCII. Leer las 7 compuertas lógicas y ubicarlas en un circuito integrado 74LS.
+El objetivo de la semana uno convertir números entre decimal, binario, octal y hexadecimal. Representar negativos en complemento a dos. Reconocer los códigos BCD, Gray y ASCII. Leer las 7 compuertas lógicas y ubicarlas en un circuito integrado 74LS.
 
 ## 1. Por qué el computador usa solo 0 y 1
 
